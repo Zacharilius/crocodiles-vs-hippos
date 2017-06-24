@@ -1,0 +1,27 @@
+{
+  "name": "crocodiles-vs-hippos",
+  "version": "1.0.0",
+  "description": "A web game built using Phaser that answer the question of animal superiority between hippos and crocodiles Edit",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zacharilius/crocodiles-vs-hippos.git"
+  },
+  "keywords": [
+    "crocodile",
+    "hippo",
+    "game"
+  ],
+  "author": "zacharilius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zacharilius/crocodiles-vs-hippos/issues"
+  },
+  "homepage": "https://github.com/Zacharilius/crocodiles-vs-hippos#readme",
+  "dependencies": {
+    "phaser": "^2.6.2"
+  }
+}
